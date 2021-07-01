@@ -1,4 +1,4 @@
-// tests for demo
+// tests just for demo
 import GamePlay from '../GamePLay';
 
 const gameContainer = document.getElementById('game-container');
